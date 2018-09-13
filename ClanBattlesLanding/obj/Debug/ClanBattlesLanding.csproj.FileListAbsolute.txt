@@ -20,7 +20,6 @@ C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\Micr
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\Microsoft.VisualBasic.Core.targets
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\Microsoft.Win32.Primitives.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.AppContext.dll
-C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.Collections.Immutable.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.Console.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.Diagnostics.Process.dll
@@ -93,8 +92,9 @@ C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\es\System.W
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\es\System.Web.WebPages.resources.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.csprojAssemblyReference.cache
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.csproj.CoreCompileInputs.cache
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.csproj.CopyComplete
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.dll
 C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.pdb
+C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Acer\source\repos\ClanBattlesLanding\ClanBattlesLanding\obj\Debug\ClanBattlesLanding.csprojAssemblyReference.cache
