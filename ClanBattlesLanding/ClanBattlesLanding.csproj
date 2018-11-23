@@ -420,7 +420,11 @@
     <Content Include="Content\wp-json\oembed\1.0\embedf7ff.json" />
     <Content Include="Content\wp-json\oembed\1.0\embedfde6" />
     <None Include="Properties\PublishProfiles\clanbattleslanding - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\clanbattleslanding - FTP1.pubxml" />
+    <None Include="Properties\PublishProfiles\clanbattleslanding - FTP2.pubxml" />
     <None Include="Properties\PublishProfiles\clanbattleslanding - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\clanbattleslanding - Web Deploy1.pubxml" />
+    <None Include="Properties\PublishProfiles\clanbattleslanding - Web Deploy2.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
     <Content Include="Scripts\jquery-3.3.1.min.js" />
